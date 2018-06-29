@@ -1,5 +1,2 @@
 // declare your functions here...
-$('selector-goes-here')
-$('img')
-$('.pics')
-$('#baby-ninja')
+$('p')
